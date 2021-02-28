@@ -1,7 +1,6 @@
 {
   "name": "goose-frontend-amm",
   "description": "AMM Interface",
-  "homepage": "www.gooseswap.finance",
   "private": true,
   "dependencies": {
     "@crowdin/crowdin-api-client": "^1.8.16",
