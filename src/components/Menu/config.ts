@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.goosedefi.com/'
+    href: 'https://www.gooseswap.finance'
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.goosedefi.com/farms'
+    href: 'https://www.gooseswap.finance'
   },
   {
     label: 'Nests',
     icon: 'PoolIcon',
-    href: 'https://www.goosedefi.com/nests'
+    href: 'https://www.gooseswap.finance'
   },
   // {
   //   label: 'Lottery',
@@ -64,28 +64,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/gooseswap/",
       },
       {
-        label: "Docs",
+        label: "GooseDefi Docs",
         href: "https://goosedefi.gitbook.io/goose-finance/",
       },
       {
-        label: "Blog",
+        label: "GooseDefi Blog",
         href: "https://goosefinance.medium.com/",
       },
     ],
   },
-  {
-    label: 'Audit by Hacken',
-    icon: 'AuditIcon',
-    href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
-  },
-  {
-    label: 'Audit by CertiK',
-    icon: 'AuditIcon',
-    href: 'https://certik.org/projects/goose-finance',
-  },
+
 ]
 
 export default config
