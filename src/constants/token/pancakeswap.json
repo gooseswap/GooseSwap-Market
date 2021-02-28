@@ -12,8 +12,8 @@
   "tokens": [
     {
       "name": "Goose Golden Egg",
-      "symbol": "EGG",
-      "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+      "symbol": "EGGx",
+      "address": "0xc88a554cb6a0e1cf2f6a68bc7ac556e2fa7a2f4a",
       "chainId": 56,
       "decimals": 18
     },
